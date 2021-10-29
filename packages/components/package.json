@@ -1,5 +1,5 @@
 {
-  "name": "ui-demo",
+  "name": "components",
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
@@ -18,13 +18,13 @@
     "dumi"
   ],
   "authors": [
+    ""
   ],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "antd-mobile": "2.3.3",
     "classnames": "^2.2.6"
   }
 }
