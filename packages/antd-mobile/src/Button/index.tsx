@@ -10,7 +10,7 @@ export const Button: React.FC<ButtonProps> = (props) => {
     <AButton
       {...other}
       onClick={(e) => {
-        alert("hello,I'm antd-mobile-a");
+        alert("~~hello,I'm antd-mobile-a");
         onClick && onClick(e);
       }}
     ></AButton>
