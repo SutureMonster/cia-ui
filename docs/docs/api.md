@@ -1,10 +1,9 @@
 ---
 title: API 规范
-<!-- path: /docs/api -->
+order: 10
 nav:
   title: 指南
   path: /docs
-  order: 10
 ---
 
 # API 规范
